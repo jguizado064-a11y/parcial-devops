@@ -1,0 +1,11 @@
+devices:
+  - name: lab-sw-01
+    ip_address: 10.40.0.10
+    role: switch
+    status: active
+    location: Laboratorio
+  - name: lab-ap-01
+    ip_address: 10.40.0.20
+    role: access-point
+    status: maintenance
+    location: Laboratorio

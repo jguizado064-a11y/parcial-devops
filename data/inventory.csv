@@ -1,0 +1,3 @@
+name,ip_address,role,status,location
+dist-sw-01,10.20.1.10,distribution-switch,active,Lima-DC
+fw-01,10.20.0.254,firewall,active,Lima-DC

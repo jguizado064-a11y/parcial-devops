@@ -1,0 +1,8 @@
+{
+  "devices": [
+    {"name": "core-sw-01", "ip_address": "10.20.0.10", "role": "core-switch", "status": "active", "location": "Lima-DC"},
+    {"name": "edge-rtr-01", "ip_address": "10.20.0.1", "role": "router", "status": "active", "location": "Lima-DC"},
+    {"name": "ap-warehouse-01", "ip_address": "10.20.5.20", "role": "access-point", "status": "maintenance", "location": "Almacén"},
+    {"name": "bad-device", "ip_address": "999.1.1.1", "role": "switch", "status": "active", "location": "Lima-DC"}
+  ]
+}

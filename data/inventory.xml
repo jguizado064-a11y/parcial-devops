@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <device><name>branch-rtr-01</name><ip_address>10.30.0.1</ip_address><role>router</role><status>active</status><location>Arequipa</location></device>
+  <device><name>branch-sw-01</name><ip_address>10.30.0.10</ip_address><role>switch</role><status>inactive</status><location>Arequipa</location></device>
+</inventory>
